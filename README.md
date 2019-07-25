@@ -21,6 +21,6 @@ For this assignment we visualized weather for over 500 cities across the world u
 ### Latitude vs. Wind Speed
 ![Image4](Lat_vs_WindSpeed.png) 
 
-* Not a clear relationship, seems like wind speeds stay relatively low depending on Latitude. 
+* Not a clear relationship, seems like wind speeds stay relatively low no matter the Latitude. 
 
 Latitude and Temperature is the only scatter plot that shows a definitive relationship, but it would be nice to see how temperature and the other variables to see what the relationship is for them.
